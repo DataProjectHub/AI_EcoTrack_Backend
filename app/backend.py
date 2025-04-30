@@ -1,4 +1,4 @@
-# app/app.py
+# app/backend.py
 import os
 from waitress import serve
 from flask import Flask, request, jsonify
