@@ -12,3 +12,4 @@ python-dotenv
 openai
 tiktoken
 waitress
+gunicorn
