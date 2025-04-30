@@ -1,0 +1,18 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore system files
+.DS_Store
+
+# Ignore model outputs (optional)
+*.h5
+*.hdf5
+
+# Ignore temp uploads (optional)
+temp/
+node_modules

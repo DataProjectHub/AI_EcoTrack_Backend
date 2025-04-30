@@ -1,0 +1,14 @@
+streamlit
+tensorflow
+numpy
+pillow
+langchain-openai>=0.0.3
+flask
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+python-dotenv
+openai
+tiktoken
+waitress
